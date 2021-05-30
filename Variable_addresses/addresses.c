@@ -22,8 +22,8 @@ int main(void) {
 	num = -100;
 	sym = 'A';
 
-	printf("Value at address num: \t%d\n", *p);
-	printf("Value at address sym: \t%c\n", *q);
+	printf("Value at address p: \t%d\n", *p);
+	printf("Value at address q: \t%c\n", *q);
 
 	system("pause>nul");
 	return 0;
